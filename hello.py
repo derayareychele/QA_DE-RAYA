@@ -6,3 +6,4 @@ def new():
 
 if __name__=='_main_':
     hello()
+    new()
